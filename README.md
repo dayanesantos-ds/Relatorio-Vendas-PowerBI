@@ -32,8 +32,6 @@ Sales
 
 Profit
 
-COGS
-
 Date (Ano e Mês)
 
 

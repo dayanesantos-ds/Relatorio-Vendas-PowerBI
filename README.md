@@ -10,7 +10,6 @@ Ao longo do projeto, trabalhei desde a compreensão da base de dados original at
 🔗 Acesso ao Dashboard Online
 
 👉https://app.powerbi.com/view?r=eyJrIjoiZmJkNzc5OTQtMmFlMC00MTYyLTg0MjktMDI4NzY2ZjNkNGZmIiwidCI6IjQ5ZjM1ZjU0LTIyMjAtNDVmMS1iZmFlLTgzOWEyZGE1NjhkNCJ9
-
 ---
 
 📁 Base de Dados e Tratamento Inicial

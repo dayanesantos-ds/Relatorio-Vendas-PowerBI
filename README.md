@@ -1,4 +1,4 @@
-# Dashboard de Vendas no Power BI
+# Relatório de Vendas no Power BI
 
 O objetivo do projeto foi aplicar, na prática, conceitos de análise de dados, tratamento de base, modelagem analítica e visualização, utilizando o dataset Financial Sample do Power BI.
 Ao longo do desenvolvimento, o foco esteve na criação de um relatório interativo, organizado e orientado à geração de insights claros sobre vendas, lucro, produtos, países e segmentos.
@@ -11,6 +11,13 @@ Ao longo do desenvolvimento, o foco esteve na criação de um relatório interat
 👉 Visualize aqui:  
 
 [Abrir Dashboard no Power BI](https://app.powerbi.com/view?r=eyJrIjoiZmJkNzc5OTQtMmFlMC00MTYyLTg0MjktMDI4NzY2ZjNkNGZmIiwidCI6IjQ5ZjM1ZjU0LTIyMjAtNDVmMS1iZmFlLTgzOWEyZGE1NjhkNCJ9)
+
+
+---
+
+## Visualização do Dashboard (print):  
+
+![Diagrama do Banco]()
 
 ---
 

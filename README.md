@@ -6,18 +6,18 @@ Ao longo do desenvolvimento, o foco esteve na criação de um relatório interat
 
 ---
 
-## Acesso ao Dashboard Online
+## Acesso ao Relatório Online
 
 👉 Visualize aqui:  
 
-[Abrir Dashboard no Power BI](https://app.powerbi.com/view?r=eyJrIjoiZmJkNzc5OTQtMmFlMC00MTYyLTg0MjktMDI4NzY2ZjNkNGZmIiwidCI6IjQ5ZjM1ZjU0LTIyMjAtNDVmMS1iZmFlLTgzOWEyZGE1NjhkNCJ9)
+[Abrir Relatório no Power BI](https://app.powerbi.com/view?r=eyJrIjoiZmJkNzc5OTQtMmFlMC00MTYyLTg0MjktMDI4NzY2ZjNkNGZmIiwidCI6IjQ5ZjM1ZjU0LTIyMjAtNDVmMS1iZmFlLTgzOWEyZGE1NjhkNCJ9)
 
 
 ---
 
 ## Visualização do Dashboard (print):  
 
-![Diagrama do Banco]()
+![Diagrama do Banco](https://github.com/dayanesantos-ds/power-bi-dashboard-vendas/blob/main/Relat%C3%B3rio%20de%20Vendas%201.png)
 
 ---
 
